@@ -1,2 +1,4 @@
 # samples
-Zip Password= honeypot
+Zip Password = honeypot
+
+Samples collected from the honeypot 🍯 
